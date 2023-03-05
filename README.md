@@ -1,7 +1,7 @@
 
 #   Improving Video Instance Segmentation via Temporal Pyramid Routing [[PAMI-2023]](https://arxiv.org/abs/2107.13155)
 
-## Code (the total training and evaluation codes) will be released after ICCV-23-DDL. Please stay tuned.
+## Code (the total training and evaluation code) will be released after ICCV-23-DDL. Please stay tuned.
 
 To incorporate both temporal and scale information, we propose a Temporal Pyramid Routing (TPR) strategy to conditionally
 align and conduct pixel-level aggregation from a feature pyramid pair of two adjacent frames. Specifically, TPR
